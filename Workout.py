@@ -1,6 +1,6 @@
 """
 File: Workout.py
-Author: Paul Garland, Sterling Foote
+Author: B0G0311
 
 Description:  This program will use a queue structure to run a short exercise program which gives the user a selection
 of workouts and lets them choose which exercise(s) to do and how many reps of each workout.
