@@ -1,6 +1,6 @@
 """
 File: queueStruct.py
-Author: Paul Garland, Sterling Foote,
+Author: B0G0311
 """
 
 
